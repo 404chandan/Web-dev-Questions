@@ -8,3 +8,9 @@ https://www.youtube.com/watch?v=_Ss42Vb1SU4
 
 ![image](https://github.com/user-attachments/assets/a5eaba68-5201-431a-9c89-502f56586f88)
 
+**Q3. What is MVC and how does it look like?**
+
+MVC stands for model view controller
+
+![image](https://github.com/user-attachments/assets/e24560bf-595e-42b6-a0a9-bbd8ab5b7d94)
+
