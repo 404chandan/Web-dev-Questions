@@ -12,5 +12,7 @@ https://www.youtube.com/watch?v=_Ss42Vb1SU4
 
 MVC stands for model view controller
 
+https://www.youtube.com/watch?v=DUg2SWWK18I&t=30s
+
 ![image](https://github.com/user-attachments/assets/e24560bf-595e-42b6-a0a9-bbd8ab5b7d94)
 
